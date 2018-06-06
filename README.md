@@ -1,16 +1,12 @@
 # Can You Break Through ? ʕง•ᴥ•ʔง
 
-
-
-
-
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine.
 This game is designed to facilitate students to identify communication barriers by observing
 a scene and identifying the communication barrier associated with it.
+This was a part of PhD Thesis by Dr. Malvika Sharma from Pillai College of Engineering, Panvel
+
+## Getting Started
+ 
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
@@ -33,8 +29,7 @@ Run 'can you break through.exe'
 
 You will see a configuration menu for adjusting game specifications 
 to match that of system's
-[[https://github.com/sudopower/Can-You-Break-Through/blob/master/img/config.png|alt=configurationmenu]]
-
+![Alt text](img/img.jpg?raw=true "ConfigurationMenu")
 ```
 until finished
 ```
