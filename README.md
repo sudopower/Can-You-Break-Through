@@ -29,7 +29,7 @@ Run 'can you break through.exe'
 
 You will see a configuration menu for adjusting game specifications 
 to match that of system's
-![Alt text](img/img.jpg?raw=true "ConfigurationMenu")
+![](img/img.jpg?raw=true "ConfigurationMenu")
 ```
 until finished
 ```
