@@ -35,17 +35,16 @@ until finished
 Game Starts with a Menu, click on Start to Load Level 1
 
 ### Level1
-
 <img src="img/l1.PNG" height="200">
 
-Level2
-![](img/l2.PNG )
+### Level2
+<img src="img/l2.PNG" height="200">
 
-Level3
-![](img/l3.PNG)
+### Level3
+<img src="img/l3.PNG" height="200">
 
-Level4
-![](img/l4.PNG)
+### Level4
+<img src="img/l4.PNG" height="200">
 
 ## Running the tests
 
