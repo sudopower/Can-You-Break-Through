@@ -7,41 +7,101 @@ Direct3D:
     VRAM:     4058 MB
     Driver:   20.19.15.4835
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.026 seconds
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.875236 ms
+UnloadTime: 2.753708 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: b0c -> priority: 1 
-  Thread -> id: 2304 -> priority: 1 
+  Thread -> id: 26f8 -> priority: 1 
+  Thread -> id: 1b90 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.760357 ms
+UnloadTime: 4.132411 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 818.
-Total: 0.231537 ms (FindLiveObjects: 0.052906 ms CreateObjectMapping: 0.014791 ms MarkObjects: 0.154453 ms  DeleteObjects: 0.008533 ms)
+Total: 0.424106 ms (FindLiveObjects: 0.079075 ms CreateObjectMapping: 0.037546 ms MarkObjects: 0.290133 ms  DeleteObjects: 0.016213 ms)
 
-Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through 1\can you break through_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\Kiran\Projects\Unity3D\Can You Break Through\can you break through_Data\Managed\Boo.Lang.dll (this message is harmless)
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.447146 ms
+UnloadTime: 1.433885 ms
 
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 429.
-Total: 0.780800 ms (FindLiveObjects: 0.038400 ms CreateObjectMapping: 0.010524 ms MarkObjects: 0.190862 ms  DeleteObjects: 0.540160 ms)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 2.192214 ms (FindLiveObjects: 0.074808 ms CreateObjectMapping: 0.046648 ms MarkObjects: 0.559218 ms  DeleteObjects: 1.509831 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.428089 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 850.
+Total: 0.768284 ms (FindLiveObjects: 0.146204 ms CreateObjectMapping: 0.046364 ms MarkObjects: 0.546986 ms  DeleteObjects: 0.026737 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.376320 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 891.
+Total: 1.421938 ms (FindLiveObjects: 0.078506 ms CreateObjectMapping: 0.033848 ms MarkObjects: 0.401066 ms  DeleteObjects: 0.907662 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.929280 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 917.
+Total: 2.104605 ms (FindLiveObjects: 0.079644 ms CreateObjectMapping: 0.048640 ms MarkObjects: 0.450560 ms  DeleteObjects: 1.524907 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.413582 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 868.
+Total: 2.592428 ms (FindLiveObjects: 0.065422 ms CreateObjectMapping: 0.038684 ms MarkObjects: 0.356409 ms  DeleteObjects: 2.131343 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.298205 ms
+
+Unloading 63 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 4.706136 ms (FindLiveObjects: 0.102400 ms CreateObjectMapping: 0.043804 ms MarkObjects: 0.582826 ms  DeleteObjects: 3.975113 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.965404 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 850.
+Total: 0.489813 ms (FindLiveObjects: 0.084480 ms CreateObjectMapping: 0.026168 ms MarkObjects: 0.360960 ms  DeleteObjects: 0.017066 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.390826 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 891.
+Total: 1.720036 ms (FindLiveObjects: 0.098417 ms CreateObjectMapping: 0.041813 ms MarkObjects: 0.502044 ms  DeleteObjects: 1.076338 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402204 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 917.
+Total: 1.376996 ms (FindLiveObjects: 0.049493 ms CreateObjectMapping: 0.027591 ms MarkObjects: 0.272782 ms  DeleteObjects: 1.026276 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.370346 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 868.
+Total: 2.623717 ms (FindLiveObjects: 0.067413 ms CreateObjectMapping: 0.038684 ms MarkObjects: 0.381155 ms  DeleteObjects: 2.135894 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.307591 ms
+
+Unloading 63 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 5.030971 ms (FindLiveObjects: 0.121457 ms CreateObjectMapping: 0.044942 ms MarkObjects: 0.592213 ms  DeleteObjects: 4.270082 ms)
 
