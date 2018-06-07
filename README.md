@@ -1,3 +1,5 @@
+# ALERT ! This is not source code for the game. It is a game.
+
 # Can You Break Through ? ʕง•ᴥ•ʔง
 
 This game is designed to facilitate students to identify communication barriers by observing
