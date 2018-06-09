@@ -35,7 +35,7 @@ You will see a configuration menu for adjusting game specifications to match tha
 Game Starts with a Menu, click on Start to Load Level 1
 
 ### Level1
-<img src="img/l1.PNG" height="200">
+<img src="img/l1.PNG" height="200"> 
 
 ### Level2
 <img src="img/l2.PNG" height="200">
