@@ -38,12 +38,6 @@ The user has to move around using the arrow keys or 'W, A, S, D' keys to move ar
 Game Starts with a Menu, click on Start to Load Level 1.
 The game has 4 levels in total
 
-### Instructions
-The user has to move around using the arrow keys or 'W, A, S, D' keys to move around.
-'Space' to jump.### Instructions
-The user has to move around using the arrow keys or 'W, A, S, D' keys to move around.
-'Space' to jump.
-
 ### Level1
 <img src="img/l1.PNG" height="200"> 
 
