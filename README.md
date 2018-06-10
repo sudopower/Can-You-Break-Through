@@ -31,9 +31,18 @@ Run 'can you break through.exe'
 You will see a configuration menu for adjusting game specifications to match that of system's
 ![](img/config.PNG)
 
+### Instructions
+The user has to move around using the arrow keys or 'W, A, S, D' keys to move around.
+'Space' to jump.
 
 Game Starts with a Menu, click on Start to Load Level 1.
 The game has 4 levels in total
+
+### Instructions
+The user has to move around using the arrow keys or 'W, A, S, D' keys to move around.
+'Space' to jump.### Instructions
+The user has to move around using the arrow keys or 'W, A, S, D' keys to move around.
+'Space' to jump.
 
 ### Level1
 <img src="img/l1.PNG" height="200"> 
